@@ -7,7 +7,7 @@
  * 
  * @author Jeremy Morgan <jeremy@jeremymorgan.org> 
  * @copyright 2013 Jeremy Morgan 
- * @license https://raw.github.com/jeremy-morgan-dot-org/php-class-query_string/master/LICENSE MIT License (MIT) 
+ * @license https://raw.github.com/jeremymorgan-dot-org/php-class-query_string/master/LICENSE MIT License (MIT) 
  */
 class query_string {
   
